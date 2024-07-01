@@ -1,0 +1,243 @@
+.content{
+    
+    text-align: center;
+    background-image: url('bg.jpg');
+    height:110vh;
+    width: 100%;
+    background-size: cover;
+    /* position: relative;
+    color: aliceblue; */
+    
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 50px;
+    padding-top: 20px;
+}
+.side-image{
+    border-style: solid;
+    border-color: #ffffff;
+    padding-top: 10px;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.bhuv{
+    margin: 0;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+.love{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content:bottom;
+    padding-top: 280px;
+}
+.nick{
+    font-size: 20px;
+}
+.bhuvanesh-iit{
+    font-size: 60px
+}
+
+.sizee{
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+    /* justify-content:end;
+    position: relative;
+    height: 200px; */
+    
+}
+
+.nature{
+    font-size: 30px;
+}
+
+.deep{
+    color: aliceblue;
+}
+
+
+.get{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 15%;
+    width: 10%;
+    padding: 10px;
+    
+}
+
+.our{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+
+.container {
+    display: flex;
+}
+
+.column {
+    flex: 4;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.web{
+    text-align: center;
+    font-size: larger;
+}
+
+.vector{
+    text-align: center;
+    padding-top: 15%;
+    height: 100px;
+    width: 100%;
+    
+    
+    
+}
+.vector-image{
+    height: 80px;
+    width: 90px;
+}
+
+.jane{
+    background-color: rgb(212, 212, 201);
+    background-size: cover ;
+}
+
+.janetheory{
+    text-align: center;
+
+}
+
+.avatar{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.us{
+    margin-left: 5%;
+}
+
+
+.container1 {
+    display: flex;
+}
+.column {
+    flex: 50%;
+    padding-right: 10px;
+    /* padding: 10px; */
+}
+
+.tell{
+    font-size: 50px;
+    margin-left: 5%;
+    color: rgb(147, 184, 143);
+    
+    
+}
+
+.because{
+    font-size: 15px;
+    /* padding-right: 300px;
+     */
+}
+.sala{
+    padding-right: 140px;
+}
+
+
+.btn{
+    padding: 11px;
+    text-align: right;
+    height: 10%;
+    background-color: #ffffff;
+    
+    
+}
+.banu-the-tomper{
+    padding-left: 200px;
+    background-color: #ffffff;
+}
+.foot{
+    background-image: url('footer.jpg');
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.question{
+    text-align: center;
+    padding: 10%;
+    color: rgb(49, 92, 6);
+}
+
+.whet{
+    
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.let{
+   text-align: right;
+}
+
+
+.last {
+    display: flex;
+    justify-content: space-between;
+    color:green
+    
+   
+
+}
+
+ .love{
+    
+
+    
+}
+love1{
+    text-align: right;
+}
+
+.button-align{
+    text-align: center;
+
+}
+.llogo{
+    bacolor:forestgreen
+
+}
+
+
+.text{
+
+     
+} 
+/* .align-items{
+    padding-right: 100px;
+} */
